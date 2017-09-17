@@ -1,0 +1,26 @@
+Baixar o Tomcat;
+
+Adicionar Tomcat ao eclipse;
+Window -> preferences -> server -> runtime environments -> add -> versao apache -> seleciona diretorio do tomcat baixado;
+Seleciona a JRE ja instalada e OK OK;
+
+Clicar na aba servers do eclipse e adicionar;
+
+Clica duas vezes nele e em server locations habilita a segunda opção - Use Tomcat instalation;
+
+Publica e da start;
+
+
+************************************************************
+
+Criar projeto JSP
+
+File -> new -> Web Dynamic Project
+
+OK
+
+Generate web.xml
+
+Gera uma pagina JSP no WebContent
+
+Clica no servidor e add remove e adiciona o projeto ao servidor

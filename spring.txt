@@ -1,0 +1,27 @@
+Spring Boot - Spring sem muita configuração
+
+Gradle - Gerenciador de compilação/ automação de tarefas
+
+*************************************************************
+Maven - Automação de compilação/ grenciador de dependências
+Usa POM.XML para mostrar as informações do projeto
+<parent> -> herda de outro projeto.
+<dependencies> -> pacotes.
+<build> -> automatizar tarefa.
+<repositories> -> as url de repositorios em que deve procurar.
+
+
+
+*************************************************************
+Pastas Geradas:
+Resources - Configurações complementares do nosso projeto.
+
+Target - Quando o Maven faz o Build gera essa pasta com os arquivos compilados.
+
+pom.xml - Todas configurações do projeto
+<groupId> -> pacote principal
+<artifactId> -> Nome do projeto caso fosse publicado no Maven
+
+mvnw - scripts bash
+
+projeto.iml -> configuração do spring boot dividida em modulos (lista de subpackages ja instalados no spring boot)

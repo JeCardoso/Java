@@ -1,0 +1,21 @@
+Dicas Java
+
+Float
+Para inserir uma divisão em um float, uma das variáveis tem de ser float. Ex:
+float c = 1.0f / 2;
+
+
+String
+O operador de comparação == deve ser usado apenas para comparar se as variáveis/objetos estão localizadas no mesmo espaço de memória.
+O método "equals" deve ser usado para comparar o conteúdo de dois objetos.
+
+
+Classe - Modelo utilizado para a criação de um objeto, que define os atributos e métodos comuns que serão compartilhados por um objeto. 
+
+Objeto - Elemento da vida real que queremos representar da forma computacional, que contém campos (características ou estado) e métodos (funcionalidades).
+
+Objeto - coisa material ou abstratro que podem ser percebida pelos sentidos e descrita por meio das suas características, comportamentos e estado atual.
+
+Instância - gerar um objeto a partir de uma classe
+
+Interface- Contrato de classe abstrata que obriga as classes que implementa a implementar seus métodos

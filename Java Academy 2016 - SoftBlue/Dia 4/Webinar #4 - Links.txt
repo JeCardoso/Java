@@ -1,0 +1,8 @@
+- Artigo sobre gerenciamento de exceções em Java
+http://www.tutorialspoint.com/java/java_exceptions.htm
+
+- Artigo da Oracle sobre o uso de exceções em Java
+https://docs.oracle.com/javase/tutorial/essential/exceptions/
+
+- Artigo sobre a API de Coleções do Java
+http://www.tutorialspoint.com/java/java_collections.htm

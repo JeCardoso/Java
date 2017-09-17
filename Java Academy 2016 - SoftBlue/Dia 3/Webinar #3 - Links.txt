@@ -1,0 +1,5 @@
+- Artigo da Oracle sobre polimorfismo em Java
+https://docs.oracle.com/javase/tutorial/java/IandI/polymorphism.html
+
+- Artigo do Java World sobre polimorfismo
+http://www.javaworld.com/article/3033445/learn-java/java-101-polymorphism-in-java.html

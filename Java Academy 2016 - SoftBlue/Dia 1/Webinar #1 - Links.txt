@@ -1,0 +1,12 @@
+Vídeo sobre instalação do Eclipse
+- http://www.softblue.com.br/site/page/id/7/videoId=TYdkuWvxWOk
+
+Javadoc
+- http://docs.oracle.com/javase/8/docs/api
+
+Java Tutorial: Language Basics
+- http://docs.oracle.com/javase/tutorial/java/javaOO/index.html
+
+Java Tutorial: Classes and Objects
+http://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html
+

@@ -1,0 +1,14 @@
+Tutorial da Oracle sobre conceitos de Orientação a Objetos
+- https://docs.oracle.com/javase/tutorial/java/concepts
+
+Tutorial da Oracle sobre as Strings
+- https://docs.oracle.com/javase/tutorial/java/data/strings.html
+
+Artigo explicando sobre os detalhes do funcionamento das Strings no Java
+- https://dzone.com/articles/string-memory-internals
+
+Artigo sobre alocação de memória em Java: Stack vs. Heap
+- http://www.journaldev.com/4098/java-heap-space-vs-stack-memory
+
+Vídeo falando sobre mercado de trabalho na área de Java
+http://www.softblue.com.br/site/page/id/7?videoId=yIBzyOWCYO0

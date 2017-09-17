@@ -1,0 +1,17 @@
+JavaEE - Especificações de Serviços e implementações Java para Web.
+
+Servidores de Aplicação - Servidores que implementam a maioria das especificações do Java EE. 
+
+Container Servlet - São servidores que implementam apenas uma parte das especificações do J2EE, geralmente JSP, JSF e Servlet. Ex: Apache, Jetty...
+
+JavaBeans - Classes em Java que nao recebe parametros no construtor, e contém get e set para cada parâmetro (classes de modelos de dados).
+
+JDBC - Drivers de cada banco de dados que facilitam a portabilidade da aplicação, criando assim uma estrutura padrão de códigos de acesso e manipulação de banco de dados na linguagem Java.
+
+DAO - Objeto responsável pelo acesso ao banco de dados
+
+Design Pattern (Padrões de Projeto) - Soluções utilizadas para resolver problemas constantemente encontrado em arquiteturas ou paradigmas de software.
+
+ORM - Mapeamento de Objeto Relacional, transforma suas tabelas do banco de dados em objetos.
+
+Servlet - Um objeto recebe uma requisicao HTTP(request), processar e dar uma resposta(response) gerando páginas dinâmicas.
